@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Visiting Lecturer, Mathematics and Statistics
+role: Mathematics and Statistics Educator
 
 # Organizations/Affiliations
 organizations:
